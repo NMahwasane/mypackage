@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example
+Home-page: https://github.com/<username>/<package-name>
+Author: Nditsheni
+Author-email: UNKNOWN
+License: MIT
+Description: # mypackage
+        # This library was created for test purposes as an example of hw to publish python packages
+        # building the package locally
+         'python setup.py sdist'
+        # how to install
+        
+Platform: UNKNOWN

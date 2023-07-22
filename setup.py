@@ -5,10 +5,10 @@ setup(
     packages= find_packages(exclude=['tests*']),
     description ='EDSA example' ,
     licence = 'MIT',
-    long_description = open(README.md).read(), 
+    long_description = open('README.md').read(), 
     author= 'Nditsheni',
     author_email= '', 
-    url= '', 
+    url= 'https://github.com/<username>/<package-name>', 
     install_requires = 'numpy'
       
     
